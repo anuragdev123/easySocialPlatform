@@ -1,0 +1,24 @@
+{
+  "name": "easy-social-platform",
+  "authors": [
+    ""
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.2",
+    "angular-ui-router": "^0.4.2",
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
