@@ -6,6 +6,7 @@ angular.module('easySocial')
                         .state('home', {
                             url: '/',
                             templateUrl: '../app/componant/landing/landing.html',
+                            controller: 'landingController'
                             
                         });
                 $urlRouterProvider.when('', '/');

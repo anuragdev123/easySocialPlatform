@@ -1,3 +1,3 @@
 'use strict';
-angular.module('easySocial', ['ui.router']);
+var easySocial=angular.module('easySocial', ['ui.router']);
 

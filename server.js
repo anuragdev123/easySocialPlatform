@@ -24,7 +24,7 @@ var con = mysql.createConnection({
   user: database.username,
   password: database.password
 });
-console.log(con)
+//console.log(con)
 con.connect(function(err) {
   if (err) throw err;
   console.log("Connected!");
