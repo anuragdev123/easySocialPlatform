@@ -3,16 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/easySocialPlatform/public/app/script.js</file>
+            <file>file:/C:/xampp/htdocs/easySocialPlatform/app/models/register.server.model.js</file>
+            <file>file:/C:/xampp/htdocs/easySocialPlatform/config/dbconnection.js</file>
             <file>file:/C:/xampp/htdocs/easySocialPlatform/public/assets/css/thesaas.min.css</file>
+            <file>file:/C:/xampp/htdocs/easySocialPlatform/public/app/componant/landing/landingController.js</file>
             <file>file:/C:/xampp/htdocs/easySocialPlatform/server.js</file>
-            <file>file:/C:/xampp/htdocs/easySocialPlatform/public/index.html</file>
-            <file>file:/C:/xampp/htdocs/easySocialPlatform/public/app/app.config.js</file>
-            <file>file:/C:/xampp/htdocs/easySocialPlatform/public/app/core.min.js</file>
+            <file>file:/C:/xampp/htdocs/easySocialPlatform/app/routes/register.server.routes.js</file>
+            <file>file:/C:/xampp/htdocs/easySocialPlatform/public/app/componant/login_register/service/login_register.js</file>
+            <file>file:/C:/xampp/htdocs/easySocialPlatform/config/easySocial.sql</file>
             <file>file:/C:/xampp/htdocs/easySocialPlatform/config/database.js</file>
-            <file>file:/C:/xampp/htdocs/easySocialPlatform/public/assets/css/core.min.css</file>
-            <file>file:/C:/xampp/htdocs/easySocialPlatform/public/app/componant/landing/landing.html</file>
-            <file>file:/C:/xampp/htdocs/easySocialPlatform/public/app/thesaas.min.js</file>
+            <file>file:/C:/xampp/htdocs/easySocialPlatform/app/controller/register.server.controller.js</file>
         </group>
     </open-files>
 </project-private>
